@@ -1,4 +1,4 @@
-# Common Data Types
+# Common Data Types + Directory
 *.csv
 *.xls
 *.xlsx
@@ -6,6 +6,7 @@
 *.gzip
 *.parquet
 *.geoparquet
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
