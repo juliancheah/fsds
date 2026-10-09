@@ -1,3 +1,12 @@
+# Common Data Types
+*.csv
+*.xls
+*.xlsx
+*.zip
+*.gzip
+*.parquet
+*.geoparquet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
